@@ -35,4 +35,4 @@ https://user-images.githubusercontent.com/100398238/227866855-34ae63e5-b1cd-4b28
 
 🚀 Stay tuned for more updates and improvements to the app, as I'm working hard to complete the special events calendar feature to elevate your experience!
 
-😊 Please note: This is my first time building an Android app, so your patience and support are much appreciated and it is open-source so please steal it thank you.
+😊 Please note: This is my first time building an Android app, so your patience and support are much appreciated.
