@@ -3,7 +3,7 @@
 
 Sky Clock is a game event timer and calendar for _Sky: Children of the Light_ that provides notifications when it's about time for in-game events and special dates like Days of Fortune, Days of Love, and Days of Bloom. Stay on top of your game and never miss an event or special date again! 🎉
 
-This app is inspired from https://sky-clock.netlify.app/
+This app is inspired from https://sky-clock.netlify.app/ and https://sky-shards.pages.dev/
 
 ### Screenshot
 
