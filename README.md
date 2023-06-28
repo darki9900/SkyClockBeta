@@ -25,6 +25,8 @@ https://user-images.githubusercontent.com/100398238/227866855-34ae63e5-b1cd-4b28
 
 - [x] Notification settings 🔔: Works properly
 
+- [x]  Shard Event timer ✨: Works properly
+
 ### What the App Does 🎯
 
 - In-game event timer: Keep track of regular in-game events, ensuring you never miss an opportunity to participate.
@@ -33,6 +35,8 @@ https://user-images.githubusercontent.com/100398238/227866855-34ae63e5-b1cd-4b28
 
 - Notification settings: Customize your notification preferences to get alerts only when you want them, allowing you to focus on the game without distractions.
 
+- Shard event: Keep track of in-game event called shard event
+
 🚀 Stay tuned for more updates and improvements to the app, as I'm working hard to complete the special events calendar feature to elevate your experience!
 
-😊 Please note: This is my first time building an Android app, so your patience and support are much appreciated.
+😊 Please note: This is my first time building an Android app, so your patience and support are much appreciated!!
