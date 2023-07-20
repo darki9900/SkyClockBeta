@@ -40,4 +40,5 @@ https://user-images.githubusercontent.com/100398238/227866855-34ae63e5-b1cd-4b28
 🚀 Stay tuned for more updates and improvements to the app, as I'm working hard to complete the special events calendar feature to elevate your experience!
 
 😊 Please note: This is my first time building an Android app, so your patience and support are much appreciated!!
-[<img alt="Sky Clock Discord Server" width="40px" src="https://cdn.discordapp.com/attachments/1048347792382365848/1131452267812368434/discord-logo-black.png" />](https://discord.gg/RapN6JpV55)
+### Sky Clock Discord Server 
+[<img alt="Sky Clock Discord Server" width="350px" src="https://cdn.discordapp.com/attachments/1048347792382365848/1131452267812368434/discord-logo-black.png" />](https://discord.gg/RapN6JpV55)
